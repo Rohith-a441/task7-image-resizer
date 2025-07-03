@@ -105,7 +105,7 @@ This project is built with the goal of being a top performer in a 200-member int
 ----
 🙌 Author
 👤 Rohith K N
-First Semester, Python Developer Intern..
+Python Developer Intern..
 
 
 ----
