@@ -1,0 +1,11 @@
+This folder contains the main Python script `image_resizer.py`, which performs batch resizing and format conversion of images using the Pillow library.
+
+- Script reads all images from '../input_images/'
+- Resizes them to 800x800 pixels
+- Converts them to JPEG format
+- Saves them in '../output_images/'
+
+Technologies used: Python, Pillow, OS module
+
+Script Author: Rohith K N
+Internship Task: Task 7 – Image Resizer Tool
