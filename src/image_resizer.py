@@ -19,7 +19,6 @@ and saves them into the 'output_images' folder.
 
 🔹 Author: Rohith K N
 🔹 Internship Task: Task 7 – Image Resizer Tool
-🔹 Internship Company: [Add company name if allowed]
 🔹 Date: July 2025
 """
 
