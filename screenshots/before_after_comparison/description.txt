@@ -1,0 +1,1 @@
+Before vs After Comparison: Side-by-side visual comparison of one image before and after resizing to confirm the output visually.
