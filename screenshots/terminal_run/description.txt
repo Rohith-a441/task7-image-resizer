@@ -1,0 +1,1 @@
+Script Execution: Terminal output showing the Python image resizer tool successfully resizing and saving each image in batch.
