@@ -1,0 +1,1 @@
+Code Preview in VS Code: Shows the 'image_resizer.py' script opened in the VS Code editor with organized folder structure and clean code formatting.
