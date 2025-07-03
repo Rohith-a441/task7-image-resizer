@@ -1,0 +1,1 @@
+After Resizing: This screenshot shows the resized output images (800x800) saved in the 'output_images' folder after successful script execution.
