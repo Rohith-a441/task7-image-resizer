@@ -1,0 +1,1 @@
+Before Resizing: This screenshot shows the original input images present in the 'input_images' folder before the script was executed.
